@@ -1,5 +1,3 @@
-NOTE: Develop your own way using logic, Don't COPY and Paste, if you really want skill
-
 Implement the Ice and Fire API using async/await with fetch.
 
 Constraints:
